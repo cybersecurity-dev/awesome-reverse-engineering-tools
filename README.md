@@ -20,33 +20,46 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+## x86/x64 Assembler 
 
-## [IDA Pro](https://hex-rays.com/ida-pro)
+
+## Disassemblier
+
+
+## Debugging Tools
+
+### [GDB](https://www.sourceware.org/gdb/)
 *
 
-## [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
+### [WinDbg](https://learn.microsoft.com/windows-hardware/drivers/debuggercmds/windbg-overview)
 *
 
-## [Sysinternals](https://learn.microsoft.com/sysinternals/)
+## Decompilers 
+
+### [IDA Pro](https://hex-rays.com/ida-pro)
 *
 
-## [Wireshark](https://www.wireshark.org/)
+### [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
 *
 
-## [x64dbg](https://x64dbg.com/)
+### [x64dbg](https://x64dbg.com/)
 *
 
-## [WinDbg](https://learn.microsoft.com/windows-hardware/drivers/debuggercmds/windbg-overview)
+## Miscellaneous
+
+### [Sysinternals](https://learn.microsoft.com/sysinternals/)
 *
 
-## [GDB](https://www.sourceware.org/gdb/)
+### [Wireshark](https://www.wireshark.org/)
+*
+
+### [CyberChef](https://gchq.github.io/CyberChef/)
 *
 
 ## [CFF Explorer](https://ntcore.com/explorer-suite/)
 *
 
-## [CyberChef](https://gchq.github.io/CyberChef/)
-*
+
 
 ##
 
