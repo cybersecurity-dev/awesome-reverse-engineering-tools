@@ -59,7 +59,8 @@
 ## [CFF Explorer](https://ntcore.com/explorer-suite/)
 *
 
-
+## Tools
+- [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) - Free APK editor for PC and Mac.
 
 ##
 
