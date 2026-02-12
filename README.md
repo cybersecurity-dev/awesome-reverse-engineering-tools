@@ -51,6 +51,14 @@
 ### [x64dbg](https://x64dbg.com/)
 *
 
+## Memory Forensics
+
+### VolUtility
+*
+
+### Volatility
+*
+
 ## Miscellaneous
 
 ### [Sysinternals](https://learn.microsoft.com/sysinternals/)
@@ -64,6 +72,7 @@
 
 ## Tools
 - [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) - Free APK editor for PC and Mac.
+- [PeStudio](https://www.winitor.com/) - PeStudio is a analysis tool for PE.
 
 ##
 
