@@ -53,15 +53,18 @@
 
 ## Memory Forensics
 
-### VolUtility
+### [VolUtility](https://github.com/kevthehermit/VolUtility)
 *
 
-### Volatility
+### [Volatility](https://github.com/volatilityfoundation/volatility3)
 *
 
 ## Miscellaneous
 
 ### [Sysinternals](https://learn.microsoft.com/sysinternals/)
+*
+
+### [Process Hacker](https://systeminformer.sourceforge.io/) 
 *
 
 ### [Wireshark](https://www.wireshark.org/)
