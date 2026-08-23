@@ -76,6 +76,7 @@
 ## Tools
 - [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) - Free APK editor for PC and Mac.
 - [PeStudio](https://www.winitor.com/) - PeStudio is a analysis tool for PE.
+- [fnprint](https://github.com/1rhino2/fnprint) - Behavioral function fingerprinting; names functions in stripped ELF binaries and patch-diffs vuln vs patched builds by microexecution.
 
 ##
 
